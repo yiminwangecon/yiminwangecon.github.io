@@ -15,3 +15,4 @@ redirect_from:
 * M.S. in Economics, University of Maine, 2024
 * B.S. in Economics, University of Central Arkansas, 2022
 
+Coming Soon~~~

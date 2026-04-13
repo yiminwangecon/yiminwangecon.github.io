@@ -5,11 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Research Interests
-- Applied microeconomics
-- Health economics
-- Urban economics
-
 ## Publications
 - **Links between COVID-19 lockdowns and drug overdose deaths, evidence from panel data.** *Economics and Human Biology*, 2025 
  — Abstract: This paper studies the impacts of divergent state government responses to the COVID-19 pandemic on drug overdose deaths. Using Difference-in-Differences method, I exploit the cross-state variation in the timing of lockdown policies to examine how COVID-19 lockdowns affected drug overdose deaths. To the author's knowledge, this is the first study that comprehensively examines the causal links between COVID-19 lockdowns and drug overdose deaths in the US. 
