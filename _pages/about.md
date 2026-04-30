@@ -25,4 +25,4 @@ My research focuses on applied microeconomics, including health economics, labor
 ## Works in Progress
 - **Impacts of COVID-19 Pandemic on Women's Health** with Daniel Grossman [Draft coming soon.](#)
 - **Understanding Entrepreneurship over Business Cycles**  [Draft coming soon.](#)
-- **Medicaid Dental Expansions: Effects on Dental Care Utilization and Provider Supply with Daniel Grossman, Kole Reddig, and Palak Suri[Draft coming soon.](#)
+- **Medicaid Dental Expansions: Effects on Dental Care Utilization and Provider Supply with Daniel Grossman, Kole Reddig, and Palak Suri** [Draft coming soon.](#)
