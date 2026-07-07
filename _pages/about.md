@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my web page! I am a PhD student in Economics at West Virginia University. I hold a MS in Economics from University of Maine and a BS in Economics from University of Central Arkansas. 
+Welcome to my web page! I am a PhD candidate in Economics at West Virginia University. 
 
-My research focuses on applied microeconomics, including health economics, labor economics, and urban economics.
+My research focuses on labor, health, and urban economics.
 
 ## Working Papers
 - **Effects of Minneapolis Upzoning on House Prices: Evidence from the Minneapolis 2040 Plan** with Alexander Marsella, Vitor Melo 
