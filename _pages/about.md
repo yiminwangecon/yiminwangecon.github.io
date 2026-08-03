@@ -25,7 +25,7 @@ My research focuses on labor, health, and urban economics.
 
 - **Effects of the Minneapolis 2040 Plan on House Prices**  
   with Alexander Marsella and Vitor Melo  
-  *Journal of Regional Science*  
+  *Journal of Regional Science*  (2026)
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347379)
 ## Works in Progress
 - **Impacts of COVID-19 Pandemic on Women's Health** with Daniel Grossman [Draft coming soon.](#)
