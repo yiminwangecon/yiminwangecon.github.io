@@ -16,6 +16,8 @@ My research focuses on labor, health, and urban economics.
 - **Vaccination and Economic Recovery**  
   Revise and Resubmit, *Journal of Regional Science*  
   [Download PDF](/assets/papers/Vaccine_and_Recovery.pdf)
+- **Adverse Labor Market Shocks and Entrepreneurship**   
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7233318)
 
 ## Publications
 
@@ -25,9 +27,8 @@ My research focuses on labor, health, and urban economics.
 
 - **Effects of the Minneapolis 2040 Plan on House Prices**  
   with Alexander Marsella and Vitor Melo  
-  *Journal of Regional Science*  (2026)
+  forthcoming on *Journal of Regional Science* 
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347379)
 ## Works in Progress
 - **Impacts of COVID-19 Pandemic on Women's Health** with Daniel Grossman [Draft coming soon.](#)
-- **Understanding Entrepreneurship over Business Cycles**  [Draft coming soon.](#)
 - **Medicaid Dental Expansions: Effects on Dental Care Utilization and Provider Supply** with Daniel Grossman, Kole Reddig, and Palak Suri [Draft coming soon.](#)
