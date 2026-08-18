@@ -18,16 +18,16 @@ Welcome to my website! I'm a PhD candidate in Economics at West Virginia Univers
 
 ## Publications
 
-- **[Links between COVID-19 Lockdowns and Drug Overdose Deaths: Evidence from Panel Data](/assets/papers/Covid19_lockdown_and_overdose_study_second_round.pdf)**  
+- **[Links between COVID-19 Lockdowns and Drug Overdose Deaths: Evidence from Panel Data](https://www.sciencedirect.com/science/article/abs/pii/S1570677X25000437)** [[PDF]](/assets/papers/Covid19_lockdown_and_overdose_study_second_round.pdf)  
   *Economics and Human Biology*, 2025
 
-- **[Effects of the Minneapolis 2040 Plan on House Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347379)**  
+- **[Effects of the Minneapolis 2040 Plan on House Prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70082)** [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347379)  
   with Alexander Marsella and Vitor Melo  
   *Forthcoming, Journal of Regional Science*
 
 ## Works in Progress
 
-- **Impacts of the COVID-19 Pandemic on Women's Health**  
+- **Household Disruptions and Women's Health**  
   with Daniel Grossman
 
 - **Medicaid Dental Expansions: Effects on Dental Care Utilization and Provider Supply**  
